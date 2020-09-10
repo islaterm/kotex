@@ -1,2 +1,2 @@
-# kotex
+# KoTex
 LaTeX to markdown parser
